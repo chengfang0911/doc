@@ -1,0 +1,3 @@
+build选项里面添加"electronDownload":{
+  "mirror": "https://npm.taobao.orj/mirrors/electron/"
+}
